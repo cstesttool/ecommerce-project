@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 55000,
+        "category": "Electonics",
+        "image": "images/laptop.png",
+        "description": "Powerful laptop for work and study"
+    },
+    {
+        "id": 2,
+        "name": "Mobile Phone",
+        "price": 25000,
+        "category": "Electonics",
+        "image": "images/mobile.jpg",
+        "description": "Smartphone with modern features"
+    },
+    {
+        "id": 3,
+        "name": "HeadPhones",
+        "price": 300,
+        "category": "Accessories",
+        "image": "images/headphones.jpg",
+        "description": "Comfortable wireless headphones"
+    },
+    {
+        "id": 4,
+        "name": "Smart Watch",
+        "price": 5500,
+        "category": "Accessories",
+        "image": "images/smartwatch.png",
+        "description": "Smart watch for everyday activities"
+    },
+    {
+        "id": 5,
+        "name": "T-Shirt",
+        "price": 550,
+        "category": "Clothing",
+        "image": "images/tshirt.jpg",
+        "description": "Comfortable cotton t-shirt"
+    }
+]
